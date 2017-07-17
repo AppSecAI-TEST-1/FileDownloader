@@ -107,3 +107,4 @@ limitations under the License.
 [DefaultConnectionCountAdapter-java-link]: https://github.com/lingochamp/FileDownloader/blob/master/library/src/main/java/com/liulishuo/filedownloader/connection/DefaultConnectionCountAdapter.java
 [IdGenerator-java-link]: https://github.com/lingochamp/FileDownloader/blob/master/library/src/main/java/com/liulishuo/filedownloader/util/FileDownloadHelper.java#L55
 [DefaultIdGenerator-java-link]: https://github.com/lingochamp/FileDownloader/blob/master/library/src/main/java/com/liulishuo/filedownloader/services/DefaultIdGenerator.java
+last updated: 1500317823261
